@@ -102,3 +102,6 @@ ENV/
 
 # zipfiles
 *.zip
+
+#__MAC__folder
+__MACOSX
